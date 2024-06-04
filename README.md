@@ -1,7 +1,7 @@
 # Guessing Game Project
 
-Date and Time of Make: Tue 04 Jun 2024 05:34:57 PM EDT
+Date and Time of Make: Tue 04 Jun 2024 06:22:38 PM EDT
 
-Number of lines of code in guessinggame.sh: 32
+Number of lines of code in guessinggame.sh: 61
 
-GitHub Pages URL: https://git@github.com:GaryChizm/my-2-repo.git
+GitHub Pages URL: https://github.com/GaryChizm/my-2-repo.git
